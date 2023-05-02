@@ -16,8 +16,8 @@ Overall, the "Image Compressor or Image File Size Reducer" web application is an
 ![Image](https://user-images.githubusercontent.com/48810102/235763587-a53efd12-70fa-43c8-9c94-93293b6e7039.png)<br>
 ![Image](https://user-images.githubusercontent.com/48810102/235763589-9f73192c-8af2-4b28-8590-fcafca84352e.png)<br>
 
-##Requirements Libraries
-`aiohttp==3.8.4<br>
+## Requirements Libraries
+aiohttp==3.8.4<br>
 aiosignal==1.3.1<br>
 anyio==3.6.2<br>
 asgiref==3.6.0<br>
@@ -55,7 +55,7 @@ tqdm==4.64.1<br>
 tzdata==2023.3<br>
 urllib3==1.26.14<br>
 virtualenv==20.21.0<br>
-yarl==1.8.2`<br>
+yarl==1.8.2<br>
 
 ## Install The Requirements
 
