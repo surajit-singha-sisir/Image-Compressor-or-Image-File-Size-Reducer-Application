@@ -20,42 +20,42 @@ Overall, the "Image Compressor or Image File Size Reducer" web application is an
 - aiohttp==3.8.4<br>
 - aiosignal==1.3.1<br>
 - anyio==3.6.2<br>
-asgiref==3.6.0<br>
-async-timeout==4.0.2<br>
-attrs==22.2.0<br>
-certifi==2022.12.7<br>
-charset-normalizer==3.0.1<br>
-colorama==0.4.6<br>
-deprecation==2.1.0<br>
-distlib==0.3.6<br>
-Django==4.1.6<br>
-filelock==3.11.0<br>
-form==0.0.1<br>
-frozenlist==1.3.3<br>
-h11==0.14.0<br>
-h2==4.1.0<br>
-hpack==4.0.0<br>
-httpcore==0.16.3<br>
-httpx==0.23.3<br>
-hyperframe==6.0.1<br>
-idna==3.4<br>
-lxml==4.9.2<br>
-multidict==6.0.4<br>
-packaging==23.1<br>
-Pillow==9.5.0<br>
-platformdirs==3.2.0<br>
-PyOpenGL==3.1.6<br>
-reportlab==3.6.13<br>
-requests==2.28.2<br>
-rfc3986==1.5.0<br>
-six==1.16.0<br>
-sniffio==1.3.0<br>
-sqlparse==0.4.3<br>
-tqdm==4.64.1<br>
-tzdata==2023.3<br>
-urllib3==1.26.14<br>
-virtualenv==20.21.0<br>
-yarl==1.8.2<br>
+- asgiref==3.6.0<br>
+- async-timeout==4.0.2<br>
+- attrs==22.2.0<br>
+- certifi==2022.12.7<br>
+- charset-normalizer==3.0.1<br>
+- colorama==0.4.6<br>
+- deprecation==2.1.0<br>
+- distlib==0.3.6<br>
+- Django==4.1.6<br>
+- filelock==3.11.0<br>
+- form==0.0.1<br>
+- frozenlist==1.3.3<br>
+- h11==0.14.0<br>
+- h2==4.1.0<br>
+- hpack==4.0.0<br>
+- httpcore==0.16.3<br>
+- httpx==0.23.3<br>
+- hyperframe==6.0.1<br>
+- idna==3.4<br>
+- lxml==4.9.2<br>
+- multidict==6.0.4<br>
+- packaging==23.1<br>
+- Pillow==9.5.0<br>
+- platformdirs==3.2.0<br>
+- PyOpenGL==3.1.6<br>
+- reportlab==3.6.13<br>
+- requests==2.28.2<br>
+- rfc3986==1.5.0<br>
+- six==1.16.0<br>
+- sniffio==1.3.0<br>
+- sqlparse==0.4.3<br>
+- tqdm==4.64.1<br>
+- tzdata==2023.3<br>
+- urllib3==1.26.14<br>
+- virtualenv==20.21.0<br>
+- yarl==1.8.2<br>
 
 ## Install The Requirements
 
