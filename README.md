@@ -1,7 +1,7 @@
-# Image-Compressor-or-Image-File-Size-Reducer-Application
+## Image-Compressor-or-Image-File-Size-Reducer-Application
 The "Image Compressor or Size Reducer" web application is a Django-based tool designed to help users compress and reduce the size of their images quickly and easily. The app uses the Python Pillow library to process the images and provides an intuitive and user-friendly interface that allows users to upload their images.
 
-#About the Application
+## About the Application
 The "Image Compressor or Image File Size Reducer" web application is a Django-based tool designed to help users compress and reduce the size of their images quickly and easily. The app uses the Python Pillow library to process the images and provides an intuitive and user-friendly interface that allows users to upload their images, set the desired compression level, and preview the results before downloading the compressed image.
 
 With this app, users can significantly reduce the size of their images, which can be useful for a variety of purposes, including optimizing website performance, reducing the file size for email attachments, or freeing up storage space on their devices. The app also allows users to preview the compressed image before downloading it, ensuring that they are satisfied with the quality and size of the final output.
@@ -11,7 +11,7 @@ The app's user interface is simple, clean, and intuitive, making it easy for eve
 Overall, the "Image Compressor or Image File Size Reducer" web application is an excellent tool for anyone looking to quickly and easily compress and reduce the size of their images.
 
 
-##Screenshots
+## Screenshots
 
 1. Here are some screenshots after launching the app.
 
@@ -62,7 +62,7 @@ urllib3==1.26.14
 virtualenv==20.21.0
 yarl==1.8.2`
 
-##Install The Requirements
+## Install The Requirements
 
 Run the commands on your Terminal.
 ```
