@@ -1,6 +1,3 @@
-## Image-Compressor-or-Image-File-Size-Reducer-Application
-The "Image Compressor or Size Reducer" web application is a Django-based tool designed to help users compress and reduce the size of their images quickly and easily. The app uses the Python Pillow library to process the images and provides an intuitive and user-friendly interface that allows users to upload their images.
-
 ## About the Application
 The "Image Compressor or Image File Size Reducer" web application is a Django-based tool designed to help users compress and reduce the size of their images quickly and easily. The app uses the Python Pillow library to process the images and provides an intuitive and user-friendly interface that allows users to upload their images, set the desired compression level, and preview the results before downloading the compressed image.
 
@@ -13,54 +10,52 @@ Overall, the "Image Compressor or Image File Size Reducer" web application is an
 
 ## Screenshots
 
-1. Here are some screenshots after launching the app.
-
-
-![Image](https://user-images.githubusercontent.com/48810102/235763588-662996de-fda9-47bd-93e0-77b8f0011bfa.png)
-![Image](https://user-images.githubusercontent.com/48810102/235763590-d402f8e3-9baa-464a-ba07-004da90ce132.png)
-![Image](https://user-images.githubusercontent.com/48810102/235763587-a53efd12-70fa-43c8-9c94-93293b6e7039.png)
-![Image](https://user-images.githubusercontent.com/48810102/235763589-9f73192c-8af2-4b28-8590-fcafca84352e.png)
+1. Here are some screenshots after launching the app.<br>
+![Image](https://user-images.githubusercontent.com/48810102/235763588-662996de-fda9-47bd-93e0-77b8f0011bfa.png)<br>
+![Image](https://user-images.githubusercontent.com/48810102/235763590-d402f8e3-9baa-464a-ba07-004da90ce132.png)<br>
+![Image](https://user-images.githubusercontent.com/48810102/235763587-a53efd12-70fa-43c8-9c94-93293b6e7039.png)<br>
+![Image](https://user-images.githubusercontent.com/48810102/235763589-9f73192c-8af2-4b28-8590-fcafca84352e.png)<br>
 
 ##Requirements Libraries
-`aiohttp==3.8.4
-aiosignal==1.3.1
-anyio==3.6.2
-asgiref==3.6.0
-async-timeout==4.0.2
-attrs==22.2.0
-certifi==2022.12.7
-charset-normalizer==3.0.1
-colorama==0.4.6
-deprecation==2.1.0
-distlib==0.3.6
-Django==4.1.6
-filelock==3.11.0
-form==0.0.1
-frozenlist==1.3.3
-h11==0.14.0
-h2==4.1.0
-hpack==4.0.0
-httpcore==0.16.3
-httpx==0.23.3
-hyperframe==6.0.1
-idna==3.4
-lxml==4.9.2
-multidict==6.0.4
-packaging==23.1
-Pillow==9.5.0
-platformdirs==3.2.0
-PyOpenGL==3.1.6
-reportlab==3.6.13
-requests==2.28.2
-rfc3986==1.5.0
-six==1.16.0
-sniffio==1.3.0
-sqlparse==0.4.3
-tqdm==4.64.1
-tzdata==2023.3
-urllib3==1.26.14
-virtualenv==20.21.0
-yarl==1.8.2`
+`aiohttp==3.8.4<br>
+aiosignal==1.3.1<br>
+anyio==3.6.2<br>
+asgiref==3.6.0<br>
+async-timeout==4.0.2<br>
+attrs==22.2.0<br>
+certifi==2022.12.7<br>
+charset-normalizer==3.0.1<br>
+colorama==0.4.6<br>
+deprecation==2.1.0<br>
+distlib==0.3.6<br>
+Django==4.1.6<br>
+filelock==3.11.0<br>
+form==0.0.1<br>
+frozenlist==1.3.3<br>
+h11==0.14.0<br>
+h2==4.1.0<br>
+hpack==4.0.0<br>
+httpcore==0.16.3<br>
+httpx==0.23.3<br>
+hyperframe==6.0.1<br>
+idna==3.4<br>
+lxml==4.9.2<br>
+multidict==6.0.4<br>
+packaging==23.1<br>
+Pillow==9.5.0<br>
+platformdirs==3.2.0<br>
+PyOpenGL==3.1.6<br>
+reportlab==3.6.13<br>
+requests==2.28.2<br>
+rfc3986==1.5.0<br>
+six==1.16.0<br>
+sniffio==1.3.0<br>
+sqlparse==0.4.3<br>
+tqdm==4.64.1<br>
+tzdata==2023.3<br>
+urllib3==1.26.14<br>
+virtualenv==20.21.0<br>
+yarl==1.8.2`<br>
 
 ## Install The Requirements
 
